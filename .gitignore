@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/itfcode.extensions
+/.vs/ProjectEvaluation
+/projects/ItfCode.Extensions.String
+/tests/ItfCode.Extensions.StringExtensions.Tests
